@@ -1,0 +1,24 @@
+<div class="video">
+    <div class="titulos">
+                    <img id="primeraportada" class="portada" width="40px" height="35px" src="https://yt3.ggpht.com/ytc/AMLnZu8mnZerSLDNzIOIBpM3O73PCOGQwmxcYubxD14Tbg=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    <table class="texto">
+                    </div>
+                    <div>
+                        <table class="texto">
+                            <tr> 
+                                <td>JoJo's Laughing Adventure</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <h6 class="chiquito1">Sato Benkei</h6>   
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <h6 class="chiquito2">4.842.752 visualizaciones feb 2019</h6>
+                                </td>
+                            </tr>
+                        </table>
+                    </div> 
+</div>
+
